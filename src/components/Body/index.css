@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.navbar {
+  background-color: #e2e8f0;
+  max-width: 200px;
+  padding: 10px;
+}
+.middle {
+  background-color: #f1f5f9;
+  padding: 15px;
+}
